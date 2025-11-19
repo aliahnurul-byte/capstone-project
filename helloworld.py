@@ -4,3 +4,4 @@ print ["hi"]
 
 print ["PLAVE"]
 
+print ["am uchuk"]
